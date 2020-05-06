@@ -137,14 +137,7 @@ footer {
                     <h3>Here for you</h3>
                 </div>
                 <div class="section-body text-center">
-                    <ul class="row">
-                        <li class="col-md-4" data-aos="fade-up" data-aos-delay="000">
-                            <img src="/images/port_pad.png"/>
-                        </li>
-                        <li class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                             <img src="/images/arbitra.PNG"/>
-                        </li>
-                    </ul>
                 </div>
             </div>
         </section>
