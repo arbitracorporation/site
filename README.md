@@ -68,21 +68,6 @@ footer {
 	sit on top of each other 
 	instead of next to each other */
 	
-/*미디어쿼리
-	width가 600px보다 작으면 
-	section영역부분에 대해
-	flexbox의 주방향을 페이지 상단에서 하단으로 배치
-	
-	참고 미디어쿼리란?
-	다양한 미디어타입(tv, screen, 태블릿, 모바일폰)에
-	다양한 레이아웃을 적용하게 하는 반응형 레이아웃 구현방법 중의 하나
-	
-	참고 CSS Flexsible Box Layout이란 일명 flexbox
-	플렉스 컨테이너의 하위요소들을 어떤 방향으로도 배치할 수 있으며
-	하위요소들의 크기도 Flexsibly 조절하여
-	빈 공간을 채우거나, 넘치지않도록 할 수 있도록하는 
-	반응형웹페이지 구현방법 중의 하나
-	*/	
 @media (max-width: 600px) {
   section {
     -webkit-flex-direction: column;
@@ -150,7 +135,7 @@ footer {
                         <li>아비트라 주식회사</li>
                         <li>사업자등록번호 853-87-01651</li>
                         <li>서울시 마포구 월드컵북로 47길 42</li>
-                        <li>arbitralab@gmail.com</li>
+                        <li>arbitracorporation@gmail.com</li>
                     </ul>
 				</div>
 	<p>COPYRIGHT © 2020. ALL RIGHTS RESERVED BY ARBITRA Co. Ltd</p>
